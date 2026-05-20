@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/mdeotale/aco-adobe-commerce
+    type: markup
+
+folders:
+  /products/: /products/default
