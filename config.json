@@ -1,0 +1,26 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://mcstaging.barcoproducts.com/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/HFW7GnJHBKWQXNQTMmc2WX/graphql",
+      "commerce-assets-enabled": false,
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base",
+          "x-api-key": "76e2197acf9244568966b75287797555",
+          "Magento-Environment-Id": "e55e44a9-7e0c-423e-be8c-69480d9ca76c"
+        }
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "10"
+        }
+      }
+    }
+  }
+}
